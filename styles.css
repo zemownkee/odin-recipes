@@ -2,17 +2,26 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-title {
-    font-size: 48px;
-    color: white;
-    background-color: chocolate;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+h2, h3 {
+    color: darkslategray;
+    font-weight: 400;
 }
 
-h1, 
-h2,
-h3, {
-    font-weight: 500;
-    color: darkgray;
-    size: 20px;
+h2 {
+    background-color: lightgray;
+    font-size: 24;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.pagelink {
+    background-color: lightgray;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.top {
+    text-align: center;
 }
